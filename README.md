@@ -2,6 +2,8 @@
 
 I'm software developer at Kod Yazilim Company. I love open source. 
 
+![counter]( https://enl7k2ml0h48hzb.m.pipedream.net)
+
 - 🔭 I’m currently working on Net Core
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
@@ -11,6 +13,5 @@ I'm software developer at Kod Yazilim Company. I love open source.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![counter]( https://enl7k2ml0h48hzb.m.pipedream.net)
 
 
