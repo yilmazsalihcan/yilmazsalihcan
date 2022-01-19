@@ -13,5 +13,7 @@ I'm software developer at Kod Yazilim Company. I love open source.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="./controllers_brief.svg">
+
 
 
