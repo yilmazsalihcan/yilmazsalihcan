@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm software developer at Kod Yazilim Company. I love open source. 
+I'm software developer at Inveon Company. I love open source. 
 
 ![counter]( https://enl7k2ml0h48hzb.m.pipedream.net)
 
