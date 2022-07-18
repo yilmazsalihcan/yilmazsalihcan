@@ -13,7 +13,7 @@ I'm software developer at Inveon Company. I love open source.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Programming Languages and Tools
+### Programming Languages & Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" align="left" />
