@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Salih
 
-I'm software developer at Tmob Company. I love open source. 
+I'm software developer at [Tmob](https://thinksmobility.com) I love open source. 
 
 ![counter]( https://enl7k2ml0h48hzb.m.pipedream.net)
 
