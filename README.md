@@ -43,7 +43,7 @@
 <br>
  <h3 align="center">My Stats:</h3>
 
-<h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yilmazsalihcan&show_icons=true&theme=radical"></img></h3>
+<h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yilmazsalihcan&show_icons=true&theme=algolia&include_all_commits=true&count_private=truel"></img></h3>
 
 
 
