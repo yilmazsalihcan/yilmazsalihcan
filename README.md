@@ -1,18 +1,24 @@
+<div align="center">
 <h3 align="center">
  Hi👋, I'm Salih
 </h3>
+ 
 <hr/>
-I'm software developer at [Tmob](https://thinksmobility.com) I love open source.
-![counter](https://enl7k2ml0h48hzb.m.pipedream.net)
 
-- 🔭 I’m currently working on Net Cores
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: yilmazsalihcan@hotmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3 align="center" dir="auto">
+ I'm full stack software developer.
+</h3>
+
+<p align="center" dir="auto">
+ 
+ ![counter](https://enl7k2ml0h48hzb.m.pipedream.net)
+ 
+</p>
+ 
+</div>
+
+
+
 
 ### Programming Languages & Tools
 
