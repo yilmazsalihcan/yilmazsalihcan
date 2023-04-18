@@ -20,7 +20,7 @@
 
 
 
-### Programming Languages & Tools
+<h3 align="center">Programming Languages & Tools:</h3>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" align="left" />
@@ -40,11 +40,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" align="left" />
 </div>
 
-<p align="center">
- <h3>My Stats</h3>
-</div>
+<br>
+ <h3 align="center">My Stats:</h3>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yilmazsalihcan&show_icons=true&theme=radical)
+<h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yilmazsalihcan&show_icons=true&theme=radical"></img></h3>
+
+
 
 
 
