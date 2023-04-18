@@ -3,7 +3,7 @@
 </h3>
 <hr/>
 I'm software developer at [Tmob](https://thinksmobility.com) I love open source.
-![counter]( https://enl7k2ml0h48hzb.m.pipedream.net)
+![counter](https://enl7k2ml0h48hzb.m.pipedream.net)
 
 - 🔭 I’m currently working on Net Cores
 - 🌱 I’m currently learning ... 
