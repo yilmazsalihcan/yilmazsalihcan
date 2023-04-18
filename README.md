@@ -3,8 +3,6 @@
  Hi👋, I'm Salih
 </h2>
  
-<hr/>
-
 <h3 align="center" dir="auto">
  I'm full stack software developer.
 </h3>
