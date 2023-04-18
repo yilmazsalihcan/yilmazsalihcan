@@ -1,4 +1,4 @@
-### Hi there👋, I'm Salih
+### Hi👋, I'm Salih
 
 I'm software developer at [Tmob](https://thinksmobility.com) I love open source. 
 
