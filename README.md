@@ -2,9 +2,9 @@
 
 I'm software developer at [Tmob](https://thinksmobility.com) I love open source.
 
-<p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
-</p>
+<h3 align="center">
+ Hi👋, I'm Salih
+</h3>
 
 ![counter]( https://enl7k2ml0h48hzb.m.pipedream.net)
 
