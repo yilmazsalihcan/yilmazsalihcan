@@ -1,6 +1,7 @@
 <h3 align="center">
  Hi👋, I'm Salih
 </h3>
+<hr/>
 I'm software developer at [Tmob](https://thinksmobility.com) I love open source.
 ![counter]( https://enl7k2ml0h48hzb.m.pipedream.net)
 
