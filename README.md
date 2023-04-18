@@ -1,6 +1,10 @@
 ### Hi👋, I'm Salih
 
-I'm software developer at [Tmob](https://thinksmobility.com) I love open source. 
+I'm software developer at [Tmob](https://thinksmobility.com) I love open source.
+
+<p align="center">
+  <img width="460" height="300" src="https://picsum.photos/460/300">
+</p>
 
 ![counter]( https://enl7k2ml0h48hzb.m.pipedream.net)
 
