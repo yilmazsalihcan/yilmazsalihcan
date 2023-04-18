@@ -1,7 +1,7 @@
 <div align="center">
-<h3 align="center">
+<h2 align="center">
  Hi👋, I'm Salih
-</h3>
+</h2>
  
 <hr/>
 
