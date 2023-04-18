@@ -1,11 +1,7 @@
-### Hi👋, I'm Salih
-
-I'm software developer at [Tmob](https://thinksmobility.com) I love open source.
-
 <h3 align="center">
  Hi👋, I'm Salih
 </h3>
-
+I'm software developer at [Tmob](https://thinksmobility.com) I love open source.
 ![counter]( https://enl7k2ml0h48hzb.m.pipedream.net)
 
 - 🔭 I’m currently working on Net Core
