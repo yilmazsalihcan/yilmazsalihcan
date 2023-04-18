@@ -21,7 +21,7 @@
 
 
 ### Programming Languages & Tools
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" align="left" />
@@ -38,5 +38,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" align="left" />
+</div>
+
+<p align="center">
+ <h3>My Stats</h3>
+</div>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yilmazsalihcan&show_icons=true&theme=radical)
+
+
+
+
+
+
+
+
+
 
 
